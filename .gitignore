@@ -1,0 +1,10 @@
+/venv/
+/.idea/
+db_gen.py
+words.txt
+bench.py
+/clusters.db
+/postgres.ini
+/duplicates.db
+report.py
+__pycache__
