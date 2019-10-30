@@ -6,5 +6,5 @@ bench.py
 /clusters.db
 /postgres.ini
 /duplicates.db
-report.py
+report.html
 __pycache__
